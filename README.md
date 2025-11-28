@@ -20,7 +20,7 @@ Volume Calculation Methods for OsEngine PercentageOfTheDeposit
 
 Lot, DecimalsVolume, PriceStepCost, PriceStep для MOEX-инструментов.
 
-Основная формула
+Основная формула:
 Рассчитывается реальный риск (с учётом стопа, проскальзывания и комиссии):
 realStopPct = stopPct + slippagePct + feePct * 2
 
